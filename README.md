@@ -16,4 +16,6 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 # Screenshot
+![image](https://github.com/jlonthegrea/Week-1-HW/assets/141881850/450857ac-adc4-4e75-8450-12aa66cfa172)
 # Depolyment 
+https://jlonthegrea.github.io/Week-1-HW/
